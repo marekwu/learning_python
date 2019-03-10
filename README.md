@@ -1,2 +1,2 @@
-# learning_python
+# Learning python
 Repository to learn python
